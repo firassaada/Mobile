@@ -21,7 +21,7 @@ Before running the app, We obtained an API key from News API and insert it into 
 
 ![image](https://github.com/ChaimaBouhlel/android-news-app/assets/75532032/937286ed-08f2-490e-95b2-f15cd526b342)
 
-This screenshot represents the main tab: the breaking news available from the API, represented by the BreakingNewsFragment
+This screenshot represents the main tab: the breaking news available from the API represented by the BreakingNewsFragment
 
 ![image](https://github.com/ChaimaBouhlel/android-news-app/assets/75532032/221022ff-0d2c-4bf2-9196-f22dd46dd079)
 
